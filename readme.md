@@ -1,3 +1,2 @@
-<h3>
-  Hello World!
-</h3>
+<h1 align="center" color="blue"> Hello, World! :earth: :computer: </h1>
+
