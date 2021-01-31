@@ -1,2 +1,2 @@
-<h1 align="center" color="blue"> Hello, World! :earth: :computer: </h1>
+<h1 align="center" color="blue"> Hello, World! :world: :computer: </h1>
 
