@@ -2,6 +2,6 @@
 <h3 align="left"> "O que sabemos é uma gota. E o que ignoramos é um oceano." </h3>
 <h2>
   Aluno de Sistemas de Informação - UFRPE
-  Técnico em Manutenção e Suporte em Informática - IFPE
-  Técnico em Redes de Computadores - IFPE
+  <br> Técnico em Manutenção e Suporte em Informática - IFPE
+  <br> Técnico em Redes de Computadores - IFPE
 </h2>
