@@ -11,8 +11,8 @@
 </h3>
 <br/>
 <h4>
-  <img src="/src/p.png" width="25" height="25"/>Python
-  <img src="/src/j.png" width="25" height="25"/>Java
-  <img src="/src/c.png" width="25" height="25"/>C/C++
-  <img src="/src/hcj.png" width="25" height="25"/>HTML + CSS + Javascript
-  <img src="/src/ss.png" width="25" height="25"/>Shell Script
+  <img src="/src/p.png" width="20" height="20"/> Python 
+  <img src="/src/j.png" width="25" height="25"/> Java 
+  <img src="/src/c.png" width="25" height="25"/> C/C++ 
+  <img src="/src/hcj.png" width="25" height="25"/> HTML + CSS + Javascript 
+  <img src="/src/ss.png" width="25" height="25"/> Shell Script 
