@@ -5,19 +5,17 @@
   <br/> Técnico em Manutenção e Suporte em Informática - IFPE
   <br/> Técnico em Redes de Computadores - IFPE
 </h4>
-
 <h3>
   Linguagens:
 </h3>
-<br/>
 <h4>
   <img src="/src/p.png" width="20" height="20"/> Python 
   <br/>
-  <img src="/src/j.png" width="25" height="25"/> Java 
+  <img src="/src/j.png" width="20" height="25"/> Java 
   <br/>
-  <img src="/src/c.png" width="25" height="25"/> C/C++ 
+  <img src="/src/c.png" width="20" height="20"/> C/C++ 
   <br/>
-  <img src="/src/hcj.png" width="25" height="25"/> HTML + CSS + Javascript 
+  <img src="/src/hcj.png" width="25" height="20"/> HTML + CSS + Javascript 
   <br/>
   <img src="/src/ss.png" width="25" height="25"/> Shell Script 
 </h4?
