@@ -1,11 +1,11 @@
 <h1 align="center"> Hello, World! :computer:</h1>
-<h4 align="justify"> Olá! Sou João Luiz Ramos, formado em Sistemas de Informação e de vez em quando gosto de atualizar e adicionar meus repositórios neste site.
+<h5 align="justify"> Olá! Sou João Luiz Ramos 👨‍💻, analista de redes com formação em Sistemas de Informação (UFRPE) e de vez em quando tiro um tempinho para atualizar e adicionar meus projetos de estudos neste site.
   <br>
   <br>
-  Tenho muito o que aprender ainda, então meus repositórios são focados em projetos que venho estudando e me empenhando para mantê-los atualizados.
+  Tenho muito o que aprender ainda, por esta razão meus repositórios são focados em projetos que venho estudando e me empenhando para mantê-los atualizados.
   <br>
   <br>
-  Seja muito bem-vindo(a)! Pode ficar à vontade 😃</h4>
+  Seja muito bem-vindo(a)! Pode ficar à vontade! 😃</h5>
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoluizramos96&show_icons=true&theme=tokyonight"/>
