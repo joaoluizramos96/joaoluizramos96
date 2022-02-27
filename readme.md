@@ -12,7 +12,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoluizramos96&layout=compact&theme=tokyonight"/>
 </div>
 
-<h4>😎 Onde você pode me encontrar:</h4>
+<h3>😎 Onde você pode me encontrar:</h4>
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/joaoluizramos96)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagr.am/joaoluizramos96)
