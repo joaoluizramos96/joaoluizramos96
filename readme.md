@@ -1,5 +1,5 @@
 <h1 align="center"> Hello, World! :computer:</h1>
-<h5 align="justify"> Olá! Sou João Luiz Ramos 👨‍💻, analista de redes com formação em Sistemas de Informação (UFRPE) e de vez em quando tiro um tempinho para atualizar e adicionar meus projetos de estudos neste site.
+<h5 align="justify"> Olá! Sou João Luiz Ramos 👨‍💻, Analista de Redes com formação em Sistemas de Informação (UFRPE) e de vez em quando tiro um tempinho para atualizar e adicionar meus projetos de estudos neste site.
   <br>
   <br>
   Tenho muito o que aprender ainda, por esta razão meus repositórios são focados em projetos que venho estudando e me empenhando para mantê-los atualizados.
