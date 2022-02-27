@@ -13,7 +13,7 @@
 </div>
 
 <h3>😎 Onde você pode me encontrar:</h4>
-<div align="justify">
+<div>
   
   [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/joaoluizramos96)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagr.am/joaoluizramos96)
@@ -28,7 +28,7 @@
 
 <h3 align="left">:rocket: Em evolução: </h3>
 
-<div align="justify">
+<div>
 
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
